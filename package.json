@@ -1,0 +1,15 @@
+{
+	"name": "aaac-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "tsx --watch index.ts"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"node-ical": "^0.16.1"
+	}
+}
